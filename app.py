@@ -9,15 +9,15 @@ import streamlit as st
 # Streamlit interface
 st.title('ApiConsulte 🐝🍯')
 
-question = st.text_input("Ask a question about the ApicultureData:")
+question = st.text_input("Faça uma pergunta sobre Apicultura no Brasil:")
 
-if st.button("Submit"):
+if st.button("Enviar"):
     if question:
         results = rag_chain.invoke({"input": question})
-        st.write("Answer:")
+        st.write("Resposta:")
         st.write(results["answer"])
 
-        st.write("Context Metadata:")
+        st.write("Metadata:")
         st.write(results["context"][0].metadata)
     else:
         st.write("Please enter a question.")

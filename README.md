@@ -9,7 +9,7 @@ This project provides a question-answering (QA) system for apiculture (beekeepin
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Additional Information](#additionalinformation)
+- [Additional Information](#additional-information)
 
 
 ## Features

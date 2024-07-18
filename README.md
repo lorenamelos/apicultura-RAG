@@ -54,7 +54,7 @@ This project provides a question-answering (QA) system for apiculture (beekeepin
 ## Additional Information
 
 ### PDF Sources
-All the PDFs used in this project were found on Google Scholar or the Embrapa website (Empresa Brasileira de Pesquisa Agropecuária). They are available on my Google Drive, which can be accessed via this link: Google Drive
+All the PDFs used in this project were found on Google Scholar or the Embrapa website (Empresa Brasileira de Pesquisa Agropecuária). They are available on my Google Drive, which can be accessed via this link: [Google Drive](https://drive.google.com/drive/folders/11mwLsOD2smiMje9oNzDUcgs-9iswpxwd?usp=sharing)
 
 ### Language
 Please, note that the PDFs used are in Portuguese. This ensures accessibility to Brazilian communities that may not speak English.

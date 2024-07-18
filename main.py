@@ -3,6 +3,7 @@ import os
 import getpass
 import dotenv
 
+dotenv.load_dotenv
 
 from langchain_openai import ChatOpenAI
 

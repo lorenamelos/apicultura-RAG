@@ -1,13 +1,15 @@
+import dotenv
 import main
 from main import rag_chain
 import streamlit as st
 from langchain.llms import OpenAI
 
+dotenv.load_dotenv
 
 import streamlit as st
 
 # Streamlit interface
-st.title('ApiConsulte 🐝🍯')
+st.title('ApiConsulte   ')
 
 # Sidebar
 st.sidebar.title("Information")

@@ -1,10 +1,12 @@
-import dotenv
 import main
 from main import rag_chain
 import streamlit as st
 from langchain.llms import OpenAI
 
-dotenv.load_dotenv
+import os
+import openai
+
+openai.api_key = os.environ.get('OPENAI_API_KEY')
 
 import streamlit as st
 

@@ -1,9 +1,9 @@
 from langchain_community.document_loaders import PyPDFLoader
 import os
 import getpass
-import dotenv
+import openai
 
-dotenv.load_dotenv
+openai.api_key = os.environ.get('OPENAI_API_KEY')
 
 from langchain_openai import ChatOpenAI
 

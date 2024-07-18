@@ -1,4 +1,4 @@
-# ApiConsult 
+# ApiConsult 🐝🍯
 ## A Data QA System using LangChain Applied to Apiculture in Brazil
 
 
